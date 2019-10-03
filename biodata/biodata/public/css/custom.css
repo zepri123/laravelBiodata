@@ -1,0 +1,98 @@
+.nav-link {
+    float: center;
+    font-size: 20px;
+    font-family: 'Roboto Slab',
+        serif;
+    margin-right: 30px;
+
+
+}
+
+.jumbotron {
+    background-color: #eeeeee;
+    position: relative;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    padding: 30px;
+}
+
+.jumbotron1 {
+    height: 500px;
+    background-image: url('/img/bg3.png');
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+
+}
+
+.jumbotron1 img {
+    width: 200px;
+    height: 230px;
+    border: 5px solid #ddd;
+}
+
+
+.gambar {
+    width: 350px;
+    height: 350px;
+
+
+}
+
+.tombol {
+    border-radius: 50px;
+
+
+}
+
+.inputan {
+    border-radius: 30px;
+    width: 220px;
+    font-size: 12px;
+    font-style: black;
+}
+
+.inputan2 {
+    border-radius: 30px;
+    width: 100px;
+    font-size: 12px;
+}
+
+.gambar {
+    width: 350px;
+    height: 350px;
+
+
+}
+
+.garis_jumbotron {
+
+    background: #494AA0;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.web {
+    color: #2E3092;
+    font-family: 'Montserrat',
+        sans-serif;
+    font-weight: bold;
+    size: 40px;
+}
+
+.info-panel {
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    margin-top: -70px;
+    background-color: white;
+
+}
+
+.footer {
+    background-color: #2E3092;
+    height: 3rem;
+    color: #ddd;
+    font-size: 1.2em;
+    font-family: 'Montserrat',
+        sans-serif;
+}
